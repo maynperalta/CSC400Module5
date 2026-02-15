@@ -6,8 +6,8 @@ public class Test {
 		int arr[] = {783, 99, 472, 182, 264, 543, 356, 295, 692, 491, 94};
 		int n = arr.length;
 		
-		radixSort(arr, n);
-		print(arr, n);
+		Radix.radixSort(arr, n);
+		Radix.print(arr, n);
 	}
 
 }

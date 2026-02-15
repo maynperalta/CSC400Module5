@@ -1,7 +1,6 @@
-import java.util.*;
-import java.io.*;
-
 package main;
+
+import java.util.*;
 
 public class Radix {
 	static int maxValue(int arr[], int n) {
